@@ -5,11 +5,11 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="OnCompile Support" Type="Folder">
-		<Item Name="Compiled.Get Counter And Protection Frames.vi" Type="VI" URL="../SubVIs/Compiled.Get Counter And Protection Frames.vi"/>
+		<Item Name="Get Compiled Counter And Protection Frames.vi" Type="VI" URL="../SubVIs/Get Compiled Counter And Protection Frames.vi"/>
 	</Item>
 	<Item Name="Property Support" Type="Folder">
-		<Item Name="Counter.Settings.vi" Type="VI" URL="../SubVIs/Counter.Settings.vi"/>
-		<Item Name="Protection.Settings.vi" Type="VI" URL="../SubVIs/Protection.Settings.vi"/>
+		<Item Name="Counter Settings.vi" Type="VI" URL="../SubVIs/Counter Settings.vi"/>
+		<Item Name="Protection Settings.vi" Type="VI" URL="../SubVIs/Protection Settings.vi"/>
 	</Item>
 	<Item Name="RTM Support" Type="Folder">
 		<Item Name="Select Channels and Update Properties.vi" Type="VI" URL="../SubVIs/Select Channels and Update Properties.vi"/>
