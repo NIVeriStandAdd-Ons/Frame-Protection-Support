@@ -29,4 +29,5 @@
 		<Item Name="Protection Signal Linked Channel.ctl" Type="VI" URL="../Types/Protection Signal Linked Channel.ctl"/>
 		<Item Name="Protection Signal Settings.ctl" Type="VI" URL="../Types/Protection Signal Settings.ctl"/>
 	</Item>
+	<Item Name="Get Compiled Counter And Protection Incoming Frames.vi" Type="VI" URL="../SubVIs/Get Compiled Counter And Protection Incoming Frames.vi"/>
 </Library>
