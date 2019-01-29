@@ -11,6 +11,7 @@
 		<Item Name="Exported Frame Type.ctl" Type="VI" URL="../Types/Exported Frame Type.ctl"/>
 		<Item Name="Exported Protection Settings.ctl" Type="VI" URL="../Types/Exported Protection Settings.ctl"/>
 		<Item Name="Exported Signal Settings.ctl" Type="VI" URL="../Types/Exported Signal Settings.ctl"/>
+		<Item Name="Incoming Signal Info.ctl" Type="VI" URL="../Types/Incoming Signal Info.ctl"/>
 		<Item Name="Protection Type.ctl" Type="VI" URL="../Types/Protection Type.ctl"/>
 		<Item Name="XNET Signal Configuration.ctl" Type="VI" URL="../Types/XNET Signal Configuration.ctl"/>
 	</Item>
