@@ -17,4 +17,5 @@
 		<Item Name="XNET Signal Configuration.ctl" Type="VI" URL="../Types/XNET Signal Configuration.ctl"/>
 	</Item>
 	<Item Name="Properties Lookup.vi" Type="VI" URL="../Properties Lookup.vi"/>
+	<Item Name="RT_Incoming_Signal_Info.ctl" Type="VI" URL="../Types/RT_Incoming_Signal_Info.ctl"/>
 </Library>

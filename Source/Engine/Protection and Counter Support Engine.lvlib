@@ -16,4 +16,5 @@
 		<Item Name="RT Frame Settings.ctl" Type="VI" URL="../Types/RT Frame Settings.ctl"/>
 		<Item Name="RT Protection Configuration.ctl" Type="VI" URL="../Types/RT Protection Configuration.ctl"/>
 	</Item>
+	<Item Name="Initialize Incoming Protection Signals.vi" Type="VI" URL="../SubVIs/Initialize Incoming Protection Signals.vi"/>
 </Library>
