@@ -17,6 +17,7 @@
 		<Item Name="Switch Protection Signal.vi" Type="VI" URL="../SubVIs/Switch Protection Signal.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Add_ID_and_Length.vi" Type="VI" URL="../SubVIs/Add_ID_and_Length.vi"/>
 		<Item Name="Channel Selection Screen.vi" Type="VI" URL="../SubVIs/Channel Selection Screen.vi"/>
 		<Item Name="Get Selection from TreeBrowserWF.vi" Type="VI" URL="../SubVIs/Get Selection from TreeBrowserWF.vi"/>
 		<Item Name="Initialize TreeBrowserWF.vi" Type="VI" URL="../SubVIs/Initialize TreeBrowserWF.vi"/>
