@@ -6,11 +6,23 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Main" Type="Folder">
 		<Item Name="Calculate Counter And Protections Main.vi" Type="VI" URL="../SubVIs/Calculate Counter And Protections Main.vi"/>
+		<Item Name="Cleanup Protection Frames.vi" Type="VI" URL="../SubVIs/Cleanup Protection Frames.vi"/>
 		<Item Name="Initialize Protection Frames.vi" Type="VI" URL="../SubVIs/Initialize Protection Frames.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Calculate Counter Value.vi" Type="VI" URL="../SubVIs/Calculate Counter Value.vi"/>
+		<Item Name="Calculate Protection Value.vi" Type="VI" URL="../SubVIs/Calculate Protection Value.vi"/>
+		<Item Name="Convert EU Data to XNET Frame.vi" Type="VI" URL="../SubVIs/Convert EU Data to XNET Frame.vi"/>
+		<Item Name="Determine Disabled.vi" Type="VI" URL="../SubVIs/Determine Disabled.vi"/>
 		<Item Name="Determine Periodic.vi" Type="VI" URL="../SubVIs/Determine Periodic.vi"/>
 		<Item Name="Determine Transmission.vi" Type="VI" URL="../SubVIs/Determine Transmission.vi"/>
+		<Item Name="Determine Transmit.vi" Type="VI" URL="../SubVIs/Determine Transmit.vi"/>
+		<Item Name="Get Frame Data.vi" Type="VI" URL="../SubVIs/Get Frame Data.vi"/>
+		<Item Name="Get Protection Signals.vi" Type="VI" URL="../SubVIs/Get Protection Signals.vi"/>
+		<Item Name="Set Counter Signal.vi" Type="VI" URL="../SubVIs/Set Counter Signal.vi"/>
+		<Item Name="Set Protection Signal.vi" Type="VI" URL="../SubVIs/Set Protection Signal.vi"/>
+		<Item Name="Update Counter Signals.vi" Type="VI" URL="../SubVIs/Update Counter Signals.vi"/>
+		<Item Name="Update Protection Signals.vi" Type="VI" URL="../SubVIs/Update Protection Signals.vi"/>
 	</Item>
 	<Item Name="Types" Type="Folder">
 		<Item Name="RT Frame Settings.ctl" Type="VI" URL="../Types/RT Frame Settings.ctl"/>

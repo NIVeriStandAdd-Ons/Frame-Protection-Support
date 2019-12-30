@@ -20,6 +20,7 @@
 		<Item Name="Channel Selection Screen.vi" Type="VI" URL="../SubVIs/Channel Selection Screen.vi"/>
 		<Item Name="Get Selection from TreeBrowserWF.vi" Type="VI" URL="../SubVIs/Get Selection from TreeBrowserWF.vi"/>
 		<Item Name="Initialize TreeBrowserWF.vi" Type="VI" URL="../SubVIs/Initialize TreeBrowserWF.vi"/>
+		<Item Name="Sort Signals By Frame Order.vi" Type="VI" URL="../SubVIs/Sort Signals By Frame Order.vi"/>
 		<Item Name="Update Channel Monitor Listbox.vi" Type="VI" URL="../SubVIs/Update Channel Monitor Listbox.vi"/>
 	</Item>
 	<Item Name="Types" Type="Folder">
