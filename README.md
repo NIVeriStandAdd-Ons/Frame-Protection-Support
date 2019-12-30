@@ -5,7 +5,7 @@ The is a set of re-useable lvlibs for doing protection and counters over automot
 
 ### LabVIEW Version ###
 
-LabVIEW 2015 SP1.
+LabVIEW 2019.
 
 ### Built Availability ###
 
@@ -17,7 +17,7 @@ IP has been tested by developer. It is not currently widely used.
 
 ### Dependencies ###
 
-NI XNET 15.5 or later
+NI XNET 19.0 or later
 
 OpenG LabVIEW Data Library 4.2.0.21 or later
 
