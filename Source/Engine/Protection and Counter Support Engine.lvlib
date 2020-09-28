@@ -32,5 +32,6 @@
 		<Item Name="RT Protection Configuration.ctl" Type="VI" URL="../Types/RT Protection Configuration.ctl"/>
 	</Item>
 	<Item Name="Calculate Protection Value Incoming.vi" Type="VI" URL="../SubVIs/Calculate Protection Value Incoming.vi"/>
+	<Item Name="Initialize Protection Frames Incoming.vi" Type="VI" URL="../SubVIs/Initialize Protection Frames Incoming.vi"/>
 	<Item Name="Set Protection Signal Incoming.vi" Type="VI" URL="../SubVIs/Set Protection Signal Incoming.vi"/>
 </Library>
