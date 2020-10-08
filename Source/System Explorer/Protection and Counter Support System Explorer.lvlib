@@ -9,6 +9,7 @@
 </Property>
 	<Item Name="OnCompile Support" Type="Folder">
 		<Item Name="Get Compiled Counter And Protection Frames.vi" Type="VI" URL="../SubVIs/Get Compiled Counter And Protection Frames.vi"/>
+		<Item Name="Get Compiled Counter And Protection Incoming Frames.vi" Type="VI" URL="../SubVIs/Get Compiled Counter And Protection Incoming Frames.vi"/>
 	</Item>
 	<Item Name="Property Support" Type="Folder">
 		<Item Name="Counter Settings.vi" Type="VI" URL="../SubVIs/Counter Settings.vi"/>
@@ -20,6 +21,7 @@
 		<Item Name="Switch Protection Signal.vi" Type="VI" URL="../SubVIs/Switch Protection Signal.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Add Remove Invalid Count Channel.vi" Type="VI" URL="../SubVIs/Add Remove Invalid Count Channel.vi"/>
 		<Item Name="Add Remove Override Channels.vi" Type="VI" URL="../SubVIs/Add Remove Override Channels.vi"/>
 		<Item Name="Channel Selection Screen.vi" Type="VI" URL="../SubVIs/Channel Selection Screen.vi"/>
 		<Item Name="Get Selection from TreeBrowserWF.vi" Type="VI" URL="../SubVIs/Get Selection from TreeBrowserWF.vi"/>
@@ -34,5 +36,4 @@
 		<Item Name="Protection Signal Linked Channel.ctl" Type="VI" URL="../Types/Protection Signal Linked Channel.ctl"/>
 		<Item Name="Protection Signal Settings.ctl" Type="VI" URL="../Types/Protection Signal Settings.ctl"/>
 	</Item>
-	<Item Name="Get Compiled Counter And Protection Incoming Frames.vi" Type="VI" URL="../SubVIs/Get Compiled Counter And Protection Incoming Frames.vi"/>
 </Library>

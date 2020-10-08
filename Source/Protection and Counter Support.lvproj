@@ -102,9 +102,6 @@
 				<Item Name="XNET Frame Type LIN.ctl" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Frame Type LIN.ctl"/>
 				<Item Name="XNET Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Mode.ctl"/>
 			</Item>
-			<Item Name="Add Remove Invalid Count Channel.vi" Type="VI" URL="../System Explorer/SubVIs/Add Remove Invalid Count Channel.vi"/>
-			<Item Name="Exported Signal Settings.ctl" Type="VI" URL="../Shared/Types/Exported Signal Settings.ctl"/>
-			<Item Name="Incoming Signal Info.ctl" Type="VI" URL="../Shared/Types/Incoming Signal Info.ctl"/>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
