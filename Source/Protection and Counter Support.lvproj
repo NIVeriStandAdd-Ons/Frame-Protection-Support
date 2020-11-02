@@ -120,6 +120,7 @@
 			<Item Name="nixlvapi.dll" Type="Document" URL="nixlvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Protection and Counter Addon Shared.lvlib" Type="Library" URL="../../../../Addon/Addon Shared/Protection and Counter Addon Shared.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
