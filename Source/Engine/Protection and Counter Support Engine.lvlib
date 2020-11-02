@@ -24,7 +24,11 @@
 		<Item Name="Determine Transmission.vi" Type="VI" URL="../SubVIs/Determine Transmission.vi"/>
 		<Item Name="Determine Transmit.vi" Type="VI" URL="../SubVIs/Determine Transmit.vi"/>
 		<Item Name="Get Frame Data.vi" Type="VI" URL="../SubVIs/Get Frame Data.vi"/>
+		<Item Name="Get Frame Time Info.vi" Type="VI" URL="../SubVIs/Get Frame Time Info.vi"/>
 		<Item Name="Get Protection Signals.vi" Type="VI" URL="../SubVIs/Get Protection Signals.vi"/>
+		<Item Name="Process Counter Signals.vi" Type="VI" URL="../SubVIs/Process Counter Signals.vi"/>
+		<Item Name="Process Protection Signals.vi" Type="VI" URL="../SubVIs/Process Protection Signals.vi"/>
+		<Item Name="Process Regular Signal.vi" Type="VI" URL="../SubVIs/Process Regular Signal.vi"/>
 		<Item Name="Set Counter Signal.vi" Type="VI" URL="../SubVIs/Set Counter Signal.vi"/>
 		<Item Name="Set Protection Signal Incoming.vi" Type="VI" URL="../SubVIs/Set Protection Signal Incoming.vi"/>
 		<Item Name="Set Protection Signal.vi" Type="VI" URL="../SubVIs/Set Protection Signal.vi"/>
@@ -32,6 +36,7 @@
 		<Item Name="Update Protection Signals.vi" Type="VI" URL="../SubVIs/Update Protection Signals.vi"/>
 	</Item>
 	<Item Name="Types" Type="Folder">
+		<Item Name="RT Frame Incoming Values.ctl" Type="VI" URL="../Types/RT Frame Incoming Values.ctl"/>
 		<Item Name="RT Frame Settings.ctl" Type="VI" URL="../Types/RT Frame Settings.ctl"/>
 		<Item Name="RT Protection Configuration.ctl" Type="VI" URL="../Types/RT Protection Configuration.ctl"/>
 	</Item>
