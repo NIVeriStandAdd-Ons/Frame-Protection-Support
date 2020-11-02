@@ -8,12 +8,13 @@
 
 </Property>
 	<Item Name="Main" Type="Folder">
+		<Item Name="Calculate Counter And Protections Main Incoming.vi" Type="VI" URL="../SubVIs/Calculate Counter And Protections Main Incoming.vi"/>
+		<Item Name="Calculate Counter And Protections Main Outgoing.vi" Type="VI" URL="../SubVIs/Calculate Counter And Protections Main Outgoing.vi"/>
 		<Item Name="Cleanup Protection Frames.vi" Type="VI" URL="../SubVIs/Cleanup Protection Frames.vi"/>
 		<Item Name="Initialize Protection Frames Incoming.vi" Type="VI" URL="../SubVIs/Initialize Protection Frames Incoming.vi"/>
-		<Item Name="Initialize Protection Frames.vi" Type="VI" URL="../SubVIs/Initialize Protection Frames.vi"/>
+		<Item Name="Initialize Protection Frames Outgoing.vi" Type="VI" URL="../SubVIs/Initialize Protection Frames Outgoing.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
-		<Item Name="Calculate Counter And Protections Main.vi" Type="VI" URL="../SubVIs/Calculate Counter And Protections Main.vi"/>
 		<Item Name="Calculate Counter Value.vi" Type="VI" URL="../SubVIs/Calculate Counter Value.vi"/>
 		<Item Name="Calculate Protection Value Incoming.vi" Type="VI" URL="../SubVIs/Calculate Protection Value Incoming.vi"/>
 		<Item Name="Calculate Protection Value.vi" Type="VI" URL="../SubVIs/Calculate Protection Value.vi"/>
