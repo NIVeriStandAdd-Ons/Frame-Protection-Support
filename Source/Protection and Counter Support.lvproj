@@ -13,6 +13,7 @@
 		<Item Name="Protection and Counter Support Engine.lvlib" Type="Library" URL="../Engine/Protection and Counter Support Engine.lvlib"/>
 		<Item Name="Protection and Counter Support Shared.lvlib" Type="Library" URL="../Shared/Protection and Counter Support Shared.lvlib"/>
 		<Item Name="Protection and Counter Support System Explorer.lvlib" Type="Library" URL="../System Explorer/Protection and Counter Support System Explorer.lvlib"/>
+		<Item Name="Switch GUID Settings.ctl" Type="VI" URL="../System Explorer/Types/Switch GUID Settings.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
