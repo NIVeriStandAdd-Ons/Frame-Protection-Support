@@ -35,6 +35,7 @@
 		<Item Name="Exported Frame Settings.ctl" Type="VI" URL="../Types/Exported Frame Settings.ctl"/>
 		<Item Name="Protection Signal Linked Channel.ctl" Type="VI" URL="../Types/Protection Signal Linked Channel.ctl"/>
 		<Item Name="Protection Signal Settings.ctl" Type="VI" URL="../Types/Protection Signal Settings.ctl"/>
+		<Item Name="Switch GUID Settings.ctl" Type="VI" URL="../Types/Switch GUID Settings.ctl"/>
 		<Item Name="Switch Protection Signal Settings.ctl" Type="VI" URL="../Types/Switch Protection Signal Settings.ctl"/>
 	</Item>
 </Library>
